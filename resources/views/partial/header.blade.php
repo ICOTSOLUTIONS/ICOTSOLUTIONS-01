@@ -20,17 +20,17 @@
                                 <li><a href="index2.html">Home 02</a></li>
                             </ul> --}}
                         </li>
-                        <li><a href="#">About us</a></li>
+                        <li><a href="{{url('/about')}}">About us</a></li>
                         <li class="has-child">
-                            <a href="#">Services</a>
+                            <a href="{{url('/services')}}">Services</a>
                             {{-- <i class="bi bi-chevron-down"></i> --}}
                             {{-- <ul class="sub-menu">
-                                <li><a href="services.html">Service</a></li>
+                                <li><a href="">Service</a></li>
                                 <li><a href="service-details.html">Service Details</a></li>
                             </ul> --}}
                         </li>
                         <li class="has-child">
-                            <a href="#">Projects</a>
+                            <!-- <a href="{{url('/contact')}}">Contact us</a> -->
                             {{-- <i class="bi bi-chevron-down"></i> --}}
                             {{-- <ul class="sub-menu">
                                 <li><a href="project.html">Project</a></li>
@@ -59,7 +59,7 @@
                     </ul>
                     <div class="get-quate dn">
                         <div class="cmn-btn">
-                            <a href="#">Contact us</a>
+                            <a href="{{url('/contact')}}">Contact us</a>
                         </div>
                     </div>
                 </nav>

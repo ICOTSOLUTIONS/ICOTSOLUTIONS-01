@@ -11,10 +11,11 @@
                         <p>xxx/xxx, lorem xx, lorem ipsum , loremipsum</p>
                     </address>
                     <ul class="social-media-icons">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://www.facebook.com/icotsolutions" target="blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter" target="blank"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/icot-solutions-a5642a237/" target="blank"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fab fa-youtube" target="blank"></i></a></li>
+                        <li><a href="https://www.instagram.com/icotsolutions/"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -33,14 +34,14 @@
             </div>
             <div class="col-md-3 col-lg-3 col-xl-3">
                 <div class="footer-widget">
-                <h4>lorem</h4>
+                <h4>Quick Link</h4>
                 <ul class="footer-menu">
+                    <li><a href="#">Home</a></li>
                     <li><a href="#">About Us</a></li>
                     <li><a href="#">Services</a></li>
-                    <li><a href="#">Project</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Career</a></li>
-                    <li><a href="#">Pricing Plan</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <!-- <li><a href="#">Career</a></li>
+                    <li><a href="#">Pricing Plan</a></li> -->
                 </ul>
                 </div>
             </div>
