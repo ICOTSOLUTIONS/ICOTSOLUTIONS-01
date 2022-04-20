@@ -1569,7 +1569,7 @@
             "authors": [
                 {
                     "name": "Frank de Jonge",
-                    "email": "info@frenky.net"
+                    "email": "icotsolutions@gmail.com"
                 }
             ],
             "description": "Filesystem abstraction: Many filesystems, one API.",
@@ -1640,7 +1640,7 @@
             "authors": [
                 {
                     "name": "Frank de Jonge",
-                    "email": "info@frankdejonge.nl"
+                    "email": "icotsolutions@gmail.com"
                 }
             ],
             "description": "Mime-type detection for Flysystem",

@@ -59,7 +59,7 @@
                     </ul>
                     <div class="get-quate dn">
                         <div class="cmn-btn">
-                            <a href="{{url('/contact')}}">Contact us</a>
+                            <a href="#">Contact us</a>
                         </div>
                     </div>
                 </nav>
@@ -74,7 +74,7 @@
             <div class="col-12 col-sm-4 col-md-3 col-lg-3 col-xl-2 text-end">
                 <div class="get-quate">
                     <div class="cmn-btn">
-                        <a href="#">Contact us</a>
+                        <a href="{{url('/contact')}}">Contact us</a>
                     </div>
                 </div>
             </div>
