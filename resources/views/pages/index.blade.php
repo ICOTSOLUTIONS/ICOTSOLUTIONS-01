@@ -1,4 +1,4 @@
-@extends('partial.master')
+@extends('partial.master')  
 @section('content')
     <section class="hero-area">
         <div class="swiper hero-slider">
