@@ -16,7 +16,7 @@ Route::view('/', 'pages.index');
 Route::view('/about', 'pages.about');
 Route::view('/services', 'pages.services');
 Route::view('/contact', 'pages.contact');
-
+Route::post('/contact-process',[App\Http\Controllers\ContactController::class,'contact'])->name('contact.process');
 
 // Route::get('/', function () {
 //     return view('welcome');

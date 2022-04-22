@@ -69,23 +69,41 @@
                         <div class="col-lg-6 col-xl-6">
                             <div class="contact-form">
                                 <h3>Have Any Questions</h3>
-                                <form action="#" method="post">
+                                <form action="{{ route('contact.process') }}" method="post">
+                                    @csrf
                                     <div class="row">
+                                        @if (Session::has('message'))
+                                            <div class="alert alert-{{ Session::get('messageType') }} alert-block">
+                                                <button type="button" class="close" data-dismiss="alert">×</button>
+                                                <strong>{{ Session::get('message') }} </strong>
+                                            </div>
+                                        @endif
                                         <div class="col-12">
-                                            <input type="text" name="name" placeholder="Enter your name">
+                                            <input type="text" name="name" placeholder="Enter your name" value="{{ old('name') }}">
+                                            <span class="text-danger"> @error('name')
+                                                {{ $message }}
+                                            @enderror</span>
                                         </div>
                                         <div class="col-xl-6">
-                                            <input type="email" name="email" placeholder="Enter your email">
+                                            <input type="email" name="email" placeholder="Enter your email" value="{{ old('email') }}">
+                                            <span class="text-danger"> @error('email')
+                                                {{ $message }}
+                                            @enderror</span>
                                         </div>
                                         <div class="col-xl-6">
-                                            <input type="text" name="subject" placeholder="Subject">
+                                            <input type="text" name="subject" placeholder="Subject" value="{{ old('subject') }}">
+                                            <span class="text-danger"> @error('subject')
+                                                {{ $message }}
+                                            @enderror</span>
                                         </div>
                                         <div class="col-12">
-                                            <textarea name="message" cols="30" rows="10"
-                                                placeholder="Your message"></textarea>
+                                            <textarea name="message" cols="30" rows="10" placeholder="Your message">{{ old('message') }}</textarea>
+                                                <span class="text-danger"> @error('message')
+                                                    {{ $message }}
+                                                @enderror</span>
                                         </div>
                                         <div class="col-12">
-                                            <input type="submit" value="Send Message">
+                                            <input type="submit" value="Send Message"/>
                                         </div>
                                     </div>
                                 </form>
