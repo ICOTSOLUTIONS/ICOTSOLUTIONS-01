@@ -22,22 +22,28 @@ class ContactController extends Controller
             'message'=>'Message',
         ]);
         $email="icotsolutions@gmail.com";
-        Mail::send(
-            'pages.contact-mail',
-            [
-                'name'=>$request->name,
-                'email'=>$request->email,
-                'subject'=>$request->subject,
-                'messages'=>$request->message,
-            ],
-            function($message) use ($email){
-                $message->from(env('MAIL_USERNAME'));
-                $message->to($email);
-                $message->subject('Contact');
-            }
-        );
-            session()->flash('message', 'Email Sent');
+        try {
+            Mail::send(
+                'pages.contact-mail',
+                [
+                    'name'=>$request->name,
+                    'email'=>$request->email,
+                    'subject'=>$request->subject,
+                    'messages'=>$request->message,
+                ],
+                function($message) use ($email){
+                    $message->from(env('MAIL_USERNAME'));
+                    $message->to($email);
+                    $message->subject('Contact');
+                }
+            );
+                session()->flash('message', 'Email Sent');
+                session()->flash('messageType', 'success');
+                return redirect()->back();
+        } catch (\Throwable $th) {
+            session()->flash('message', 'Email not Sent');
             session()->flash('messageType', 'success');
             return redirect()->back();
+        }
     }
 }
