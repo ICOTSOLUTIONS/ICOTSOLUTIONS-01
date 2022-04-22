@@ -62,7 +62,7 @@
                             <i class="far fa-envelope"></i>
                         </div>
                         <div class="email">
-                            <a href="icotsolutions@gmail.com" target="blank"><span class="__cf_email__" data-cfemail="1e777078715e7b667f736e727b307d7173">[email&#160;protected]</span></a>
+                            <a href="icotsolutions@gmail.com" target="blank"><span class="" data-cfemail="">icotsolutions@gmail.com</span></a>
                             <!-- <a href="info@support.com"><span class="__cf_email__" data-cfemail="4b22252d240b383e3b3b24393f65282426">[email&#160;protected]</span></a> -->
                         </div>
                     </div>
