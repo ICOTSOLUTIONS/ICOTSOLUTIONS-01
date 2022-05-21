@@ -21,7 +21,7 @@ class ContactController extends Controller
             'subject'=>'Subject',
             'message'=>'Message',
         ]);
-        $email="icotsolutions@gmail.com";
+        $email=$request->email;;
         try {
             Mail::send(
                 'pages.contact-mail',
