@@ -21,9 +21,9 @@
                 <div class="title">
                     <span>what we do</span>
                     <h2>we work performed for client happy.</h2>
-                    <div class="cmn-btn">
+                    <!-- <div class="cmn-btn">
                         <a href="services.html">view all services</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-md-12 col-lg-8 col-xl-8">
@@ -36,7 +36,7 @@
                             </div>
                             <div class="service-content">
                                 <h4>Web Development </h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, quaerat est a, rerum consequatur non totam perspiciatis hic molestias repudiandae tempore ab quam dignissimos in quo quos omnis delectus. Incidunt.</p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                             </div>
                         </div>
@@ -49,7 +49,7 @@
                             </div>
                             <div class="service-content">
                                 <h4>Android & IOS Application Designing</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit corporis necessitatibus perferendis, mollitia similique vero vitae cupiditate officia maxime blanditiis modi eius esse voluptatibus neque at cumque ipsa impedit minima.</p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                             </div>
                         </div>
@@ -62,7 +62,7 @@
                             </div>
                             <div class="service-content">
                                 <h4>Graphic Designing</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, eaque corporis earum libero quis nam facilis assumenda numquam esse pariatur voluptatibus nobis asperiores blanditiis, quo, maiores facere natus commodi aliquid?</p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                             </div>
                             <div class="service-content">
                                 <h4>Social Media Marketing</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia aperiam ipsa assumenda quos reiciendis provident reprehenderit vel, voluptas illo, sint possimus animi dolorem iure doloremque quam nemo ipsam, velit debitis? </p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                     </div>
                     <div class="service-content">
                         <h4>Content Writing</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos esse illo, expedita sit porro at nulla totam quae delectus commodi, ipsa, atque laboriosam sunt tempora culpa ducimus officia eaque. Quas!</p>
                         <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                     </div>
                     <div class="service-content">
                         <h4>Search Engine Optimization (SEO)</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora exercitationem sunt quos reiciendis incidunt nihil magni quibusdam velit culpa earum, quas quisquam, ut maiores cupiditate eos, voluptatum illo placeat ipsam.</p>
                         <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                     </div>
                     <div class="service-content">
                         <h4>Domain & Hosting</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta harum, magni eos est et consequuntur, temporibus nostrum, autem atque aliquam ratione quidem voluptate. Consectetur, nihil at iure harum nostrum debitis!</p>
                         <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                     </div>
                     <div class="service-content">
                         <h4>It Solutions</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui esse nobis perspiciatis enim architecto tempora modi, sed accusantium. Natus ut, quidem alias dignissimos veniam et dolore unde cupiditate omnis voluptas?</p>
                         <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt=""></i></a>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
 </section>
 
 
-<section class="how-we-work sec-mar-top" style="background-color: white; padding:40px;">
+<!-- <section class="how-we-work sec-mar-top" style="background-color: white; padding:40px;">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-xl-4">
@@ -239,10 +239,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="pricing-plan sec-mar">
+<!-- <section class="pricing-plan sec-mar">
     <div class="container">
         <div class="row justify-content-between align-items-center">
             <div class="col-12 col-lg-6 col-xl-5 or2">
@@ -375,10 +375,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="lets-talk sec-pad">
+<!-- <section class="lets-talk sec-pad">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-9 col-lg-8 col-xl-7">
@@ -396,5 +396,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 @endsection

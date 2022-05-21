@@ -32,7 +32,7 @@
                                 <i class="bi bi-geo-alt"></i>
                             </div>
                             <h4>Location</h4>
-                            <p>168/170, Ave 01,Old York Drive Rich Mirpur, Dhaka, Bangladesh</p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta placeat impedit dolorem ea reiciendis praesentium at architecto, explicabo debitis modi eius nam quam deleniti aperiam cumque eaque alias voluptate quaerat!</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-4">
@@ -41,8 +41,8 @@
                                 <i class="bi bi-telephone"></i>
                             </div>
                             <h4>Phone</h4>
-                            <a href="tel:0123456789102">+012-3456-789102</a>
-                            <a href="tel:013456789102">+012-3456-789102</a>
+                            <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. In eius recusandae ipsam eligendi nostrum, quasi ratione soluta laboriosam necessitatibus quos fuga earum sed cum iure dolor perferendis debitis facere! In.</a>
+                            <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. In eius recusandae ipsam eligendi nostrum, quasi ratione soluta laboriosam necessitatibus quos fuga earum sed cum iure dolor perferendis debitis facere! In.</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-4">
@@ -52,11 +52,11 @@
                             </div>
                             <h4>Email</h4>
                             <a
-                                href="https://demo.egenslab.com/cdn-cgi/l/email-protection#f891969e97b89d80999588949dd69b9795"><span
+                                href="#"><span
                                     class="__cf_email__"
                                     data-cfemail="056c6b636a45607d64687569602b666a68">[email&#160;protected]</span></a>
                             <a
-                                href="https://demo.egenslab.com/cdn-cgi/l/email-protection#92e1e7e2e2fde0e6d2f7eaf3ffe2fef7bcf1fdff"><span
+                                href="#"><span
                                     class="__cf_email__"
                                     data-cfemail="3d4e484d4d524f497d58455c504d5158135e5250">[email&#160;protected]</span></a>
                         </div>
