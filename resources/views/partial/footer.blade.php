@@ -4,7 +4,7 @@
             <div class="col-md-3 col-lg-3 col-xl-3">
                 <div class="footer-widget">
                     <div class="footer-logo">
-                        <a href="index-2.html"><img src="{{asset('assets/img/logo.png')}}" alt=""></a>
+                        <a href="index-2.html"><img src="{{asset('assets/img/logo/icots.png')}}" alt=""></a>
                     </div>
                     <address>
                         <h4>Social Media</h4>
@@ -53,7 +53,7 @@
                             <i class="fas fa-phone-alt"></i>
                         </div>
                         <div class="phone">
-                            <a href="https://wa.me/03360394622" target="blank">+9203360394622</a>
+                            <a href="https://wa.me/03360394622" target="blank">+92-3360394622</a>
                             <!-- <a href="tel:xxxxxxxxxxxx">+xxx xxxx xxxx</a> -->
                         </div>
                     </div>
@@ -70,7 +70,8 @@
                         <div class="address-icon">
                             <i class="fas fa-map-marker-alt"></i>
                         </div>
-                        <a href="https://goo.gl/maps/nNbWWYoobGwp1UUP7" target="blank"><p> Qasim Abad Block 8 Liaquatabad Town  Karachi</p></a>
+                        <a href="#" target="blank"><p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro provident aspernatur ipsum veritatis delectus, distinctio iusto eaque, hic autem unde, soluta nihil necessitatibus nulla corporis dolor culpa assumenda. Maiores, eaque!</p></a>
+                        <!-- <a href="https://goo.gl/maps/nNbWWYoobGwp1UUP7" target="blank"><p> Qasim Abad Block 8 Liaquatabad Town  Karachi</p></a> -->
                     </div>
                 </div>
             </div>

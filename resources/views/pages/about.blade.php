@@ -27,7 +27,7 @@
                                     <p>Integer purus odio, placerat neclessi rhoncus in, ullamcorper nec
                                         dolor.ol aptent taciti sociosqu.</p>
                                     <h4>Carlo Rabil. <span>CTO & FOUNDER, Finibus</span></h4>
-                                    <img src="assets/img/cto-signature.png" alt="">
+                                    <img src="assets/img/about-bottom.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -67,25 +67,22 @@
                         <span>About us</span>
                         <h2 class="mb-15" style="color: white;">Direction with our company.</h2>
                     </div>
-                    <p style="color: white;">Integer purus odio, placerat nec rhoncus in, ullamcorper nec dolor. Classe aptent taciti
-                        sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent nec
-                        neque at dolor venenatis consectetur eu quis ei Donec lacinia placerat felis non
-                        aliquam.Integer purus odio.</p>
+                    <p style="color: white;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa qui ipsum inventore, veniam, suscipit, impedit asperiores distinctio quasi dignissimos id cumque labore vitae iste delectus nemo facere laboriosam voluptatum! Maiores.</p>
                     <div class="our-mission">
                         <div class="msn-icon">
-                            <i><img src="assets/img/icons/mission-icon.png" alt=""></i>
+                            <i><img src="assets/img/icons/about-top.png" alt=""></i>
                         </div>
                         <div class="msn-content">
                             <h5 style="color: white;">Our Mission</h5>
-                            <p style="color: white;">Integer purus odio, placerat nec rhoni olor Class online and video.</p>
+                            <p style="color: white;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum, commodi voluptates quidem voluptas hic cupiditate, optio, perferendis iste doloremque repudiandae iusto saepe. Laudantium reiciendis perspiciatis adipisci saepe aliquam deleniti illo!</p>
                         </div>
                         <div class="cto">
-                            <img src="assets/img/ctoFounder.png" alt="">
+                            <img src="assets/img/blog-banner.png" alt="">
                         </div>
                     </div>
-                    <div class="cmn-btn">
+                    <!-- <div class="cmn-btn">
                         <a href="about.html">About more</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-6 col-xl-6">
@@ -115,7 +112,7 @@
                 </div>
             </div>
         </div>
-        <div class="features-count">
+        <!-- <div class="features-count">
             <div class="row">
                 <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">
                     <div class="single-count">
@@ -154,7 +151,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 
@@ -172,18 +169,14 @@
                                 </div>
                                 <div class="client-info">
                                     <div class="client-pic">
-                                        <img src="assets/img/client.jpg" alt="">
+                                        <img src="{{asset('assets/img/543_378726_tech.hero.jpg')}}" alt="">
                                     </div>
                                     <div class="client-details">
-                                        <h4>Savannah Nguyen</h4>
-                                        <span>Executive CEO</span>
+                                        <h4>Developer</h4>
+                                        <span>Php</span>
                                     </div>
                                 </div>
-                                <p><i class="fas fa-quote-left"></i> Curabitur magna nisi, egestas quis est in,
-                                    finibus pulvinar ipsum. Nunc sit amet odio interdum, maximus dolor quis,
-                                    ullamcorper lectus. Mauris vitae faucibus libero. Curabitur eu convallis
-                                    purus. Nunc accumsan diam in arcu pellentesque sagittis. Curabitur dolor
-                                    odio, aliquam vitae noday backowner condimentum this fire ongon then only on
+                                <p><i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat perspiciatis asperiores ratione autem laudantium quia expedita rem quisquam officia, ab fugit eveniet voluptatem. Soluta quasi omnis vero nulla alias! Et.
                                     <i class="fas fa-quote-right"></i>
                                 </p>
                                 <div class="rating">
@@ -202,18 +195,14 @@
                                 </div>
                                 <div class="client-info">
                                     <div class="client-pic">
-                                        <img src="assets/img/client-2.jpg" alt="">
+                                        <img src="{{asset('assets/img/543_378726_tech.hero.jpg')}}" alt="">
                                     </div>
                                     <div class="client-details">
-                                        <h4>Nailong Jeso</h4>
-                                        <span>CTO Founder</span>
+                                        <h4>Developer</h4>
+                                        <span>React Js</span>
                                     </div>
                                 </div>
-                                <p><i class="fas fa-quote-left"></i> Curabitur magna nisi, egestas quis est in,
-                                    finibus pulvinar ipsum. Nunc sit amet odio interdum, maximus dolor quis,
-                                    ullamcorper lectus. Mauris vitae faucibus libero. Curabitur eu convallis
-                                    purus. Nunc accumsan diam in arcu pellentesque sagittis. Curabitur dolor
-                                    odio, aliquam vitae noday backowner condimentum this fire ongon then only on
+                                <p><i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda porro nesciunt, ipsam id animi modi fuga temporibus maiores et, dignissimos necessitatibus distinctio tempore eveniet illum amet? Laudantium quis ea obcaecati.
                                     <i class="fas fa-quote-right"></i>
                                 </p>
                                 <div class="rating">
@@ -232,18 +221,14 @@
                                 </div>
                                 <div class="client-info">
                                     <div class="client-pic">
-                                        <img src="assets/img/client-3.jpg" alt="">
+                                        <img src="{{asset('assets/img/download.png')}}" alt="">
                                     </div>
                                     <div class="client-details">
-                                        <h4>Gautam Yamni</h4>
-                                        <span>Designer Head</span>
+                                        <h4>Developer</h4>
+                                        <span>React Native</span>
                                     </div>
                                 </div>
-                                <p><i class="fas fa-quote-left"></i> Curabitur magna nisi, egestas quis est in,
-                                    finibus pulvinar ipsum. Nunc sit amet odio interdum, maximus dolor quis,
-                                    ullamcorper lectus. Mauris vitae faucibus libero. Curabitur eu convallis
-                                    purus. Nunc accumsan diam in arcu pellentesque sagittis. Curabitur dolor
-                                    odio, aliquam vitae noday backowner condimentum this fire ongon then only on
+                                <p><i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi veritatis porro accusamus doloribus nulla, qui adipisci modi impedit accusantium commodi fugit minima placeat eaque rem dolor ducimus sed quia libero!
                                     <i class="fas fa-quote-right"></i>
                                 </p>
                                 <div class="rating">
@@ -266,7 +251,7 @@
 </section>
 
 
-<section class="why-choose-us sec-mar">
+<!-- <section class="why-choose-us sec-mar">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-6 col-xl-6">
@@ -316,10 +301,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="latest-news sec-mar">
+<!-- <section class="latest-news sec-mar">
     <div class="container">
         <div class="row gx-4">
             <div class="col-md-6 col-lg-4 col-xl-4">
@@ -389,10 +374,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="lets-talk sec-pad">
+<!-- <section class="lets-talk sec-pad">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-9 col-lg-8 col-xl-7">
@@ -410,5 +395,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 @endsection
